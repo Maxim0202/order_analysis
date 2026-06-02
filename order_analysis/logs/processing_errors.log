@@ -1,0 +1,12 @@
+[2026-06-02 13:41:20,747] INFO: Data loaded successfully from /home/max/Netologia/Netologia/order_analysis/order_analysis/data/order_10000.csv
+[2026-06-02 13:41:20,750] INFO: Отфильтровано заказов со статусом 'Delivered': 1417
+[2026-06-02 13:41:20,750] INFO: Метрики рассчитаны: {'total_orders': 1417, 'total_revenue': 1069477.83, 'avg_order_value': 754.747939308398}
+[2026-06-02 13:41:20,753] INFO: Файл order_10000.csv обработан, результаты сохранены в /home/max/Netologia/Netologia/order_analysis/order_analysis/reports/analysis_results.csv
+[2026-06-02 13:41:20,857] INFO: Data loaded successfully from /home/max/Netologia/Netologia/order_analysis/order_analysis/data/order_100000.csv
+[2026-06-02 13:41:20,865] INFO: Отфильтровано заказов со статусом 'Delivered': 14287
+[2026-06-02 13:41:20,866] INFO: Метрики рассчитаны: {'total_orders': 14287, 'total_revenue': 10874402.61, 'avg_order_value': 761.1396801287883}
+[2026-06-02 13:41:20,867] INFO: Файл order_100000.csv обработан, результаты сохранены в /home/max/Netologia/Netologia/order_analysis/order_analysis/reports/analysis_results.csv
+[2026-06-02 13:41:20,951] INFO: Data loaded successfully from /home/max/Netologia/Netologia/order_analysis/order_analysis/data/test_order_100000.csv
+[2026-06-02 13:41:20,961] INFO: Отфильтровано заказов со статусом 'Delivered': 14287
+[2026-06-02 13:41:20,972] ERROR: Неожиданная ошибка при обработке test_order_100000.csv: could not convert string to float: 'testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestte
+[2026-06-02 13:41:20,975] INFO: Обработка папки /home/max/Netologia/Netologia/order_analysis/order_analysis/data завершена. Файлов: 3
